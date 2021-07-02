@@ -1,9 +1,5 @@
 # Food Break
 
-Food Ordering app for Internshala Android Development Training
+Food Ordering app 
 
-Url and token were provided by internshala itself.
 
-NOTE:- **Replace your token in "Android->app->res->values->strings"**
-
-**Refer to Screenshots folder for UI**
